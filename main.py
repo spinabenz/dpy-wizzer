@@ -11,7 +11,7 @@ client = commands.Bot(command_prefix = prefix)
 client.remove_command("help")
 intents = discord.Intents.all()
 
-webhook_usernames = ["github.com/jayshimself", "lol", "nuked"] #cmd to nuke is !wizz
+ #cmd to nuke is !wizz
 spam_messages = ["@everyone wizzed lol"]
 whitelisted_id = ["798709422087733268", "750507937746649159"] #useless, jus used this so yk the ids of creators lol, me nd saiv.
 
